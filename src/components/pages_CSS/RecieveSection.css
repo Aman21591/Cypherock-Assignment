@@ -1,0 +1,62 @@
+.coin-header{
+    margin-top: 50px;
+    display: grid;
+}
+.space-header{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.header-text{
+    color: #b1b1b1;
+    font-size: small;
+}
+.container-box{
+    margin-top: 4;
+    display: flex;
+    justify-content: center;
+}
+.container-text{
+    display: flex;
+    gap: 4px;
+    background-color: #363A3E;
+    border-radius: 10px;
+    padding-left: 40px;
+    padding-right: 20px;
+    justify-items: center;
+}
+.text{
+    color: #e19a4c;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.copy-button{
+    padding: 2px;
+    background-color: #53595f;
+    color: #f5cea3;
+}
+.address-box{
+    margin-top: 6px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.address-text{
+    color: #8484f1;
+}
+.re-verify-button{
+    margin-top: 8px;
+    justify-items: center;
+    justify-content: center;
+}
+.verify-button{
+    border-color: #8484f1;
+    color: #8484f1;
+    border: #8484f1;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 4px;
+    padding-right: 4px;
+    
+}
+

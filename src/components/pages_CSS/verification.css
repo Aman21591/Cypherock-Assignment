@@ -1,0 +1,46 @@
+.key-Container{
+ margin-top: 44px;
+ padding-left: 37px;
+ padding-right: 37px;   
+}
+.key-box{
+    color: #E19A4C;
+    font-size: 22px;
+    text-align: center;
+    background-color: #363A3E;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+
+}
+.item{
+    display: flex;
+    justify-content: center;
+    padding-left: 90px;
+}
+.text-item{
+    margin-top: 50px;
+}
+.text-block{
+    color: #B1B1B1;
+    font-size: small;
+}
+.gap{
+    width: 471px;
+}
+.text-option{
+    background-color: #212427;
+    display: flex;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    align-items: center;
+    gap: 3px;
+}
+.text-size{
+    color: #A4A9D6;
+    font-size: 14px;
+}
